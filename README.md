@@ -29,4 +29,9 @@ Please do not delete any files it may **crash the game** and start the game usin
 ## Cheats
 You can press **a** to increase your score by 10
 
+## Preview
+If you want to see how game looks
+like follow [this ](https://youtu.be/0sCIlStTGk8) link.
+
+
 ## THANK YOU!
